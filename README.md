@@ -4,7 +4,7 @@ Hi 👋 My name is Youssef Alaadin
 Computer Science Student and Web Developer
 ------------------------------------------
 
-I'm a Computer Science student with a strong passion for backend development. I’ve worked on several web apps using technologies like React, .Net, ASP.NET, and MongoDB. I’m constantly exploring new tools and best practices to build scalable and real-world applications.
+I'm a Computer Science student with a strong passion for backend development. I’ve worked on several web apps using technologies like React, ASP.NET, Spring Boot. I’m constantly exploring new tools and best practices to build scalable and real-world applications.
 
 * 🌍  I'm based in Cairo, EG
 * ✉️  You can contact me at [youssefalaadin86@gmail.com](mailto:youssefalaadin86@gmail.com )
